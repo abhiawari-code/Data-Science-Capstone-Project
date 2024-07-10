@@ -1,4 +1,4 @@
-# Data Science Capstone Project
+# Data Science Project
 
 ## Description:
 
